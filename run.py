@@ -1,0 +1,1 @@
+from examples.quality_demo import *
